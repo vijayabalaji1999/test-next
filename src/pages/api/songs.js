@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { parseMovies } from '../helper';
+import { parseMovies } from './helper';
 
 const url = process.env.NEXT_PUBLIC_API_URL;
 
